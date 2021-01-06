@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\bin\Debug\netstandard2.0\SkitGubbeApp.deps.json
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\bin\Debug\netstandard2.0\SkitGubbeApp.dll
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\bin\Debug\netstandard2.0\ref\SkitGubbeApp.dll
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\bin\Debug\netstandard2.0\SkitGubbeApp.pdb
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\obj\Debug\netstandard2.0\SkitGubbeApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\obj\Debug\netstandard2.0\SkitGubbeApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\obj\Debug\netstandard2.0\SkitGubbeApp.AssemblyInfo.cs
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\obj\Debug\netstandard2.0\SkitGubbeApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\obj\Debug\netstandard2.0\SkitGubbeApp.dll
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\obj\Debug\netstandard2.0\ref\SkitGubbeApp.dll
+C:\Users\user\source\repos\SkitGubbeApp\SkitGubbeApp\SkitGubbeApp\obj\Debug\netstandard2.0\SkitGubbeApp.pdb
