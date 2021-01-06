@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkitGubbeApp.Android", "SkitGubbeApp\SkitGubbeApp.Android\SkitGubbeApp.Android.csproj", "{F82A5BC2-AB88-43EE-8F4F-B2ADB334E362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkitGubbeApp", "SkitGubbeApp\SkitGubbeApp\SkitGubbeApp.csproj", "{4B4C7F3E-8ABD-42E3-B618-463C535EE585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F82A5BC2-AB88-43EE-8F4F-B2ADB334E362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82A5BC2-AB88-43EE-8F4F-B2ADB334E362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82A5BC2-AB88-43EE-8F4F-B2ADB334E362}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F82A5BC2-AB88-43EE-8F4F-B2ADB334E362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82A5BC2-AB88-43EE-8F4F-B2ADB334E362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82A5BC2-AB88-43EE-8F4F-B2ADB334E362}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4B4C7F3E-8ABD-42E3-B618-463C535EE585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4C7F3E-8ABD-42E3-B618-463C535EE585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4C7F3E-8ABD-42E3-B618-463C535EE585}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4B4C7F3E-8ABD-42E3-B618-463C535EE585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4C7F3E-8ABD-42E3-B618-463C535EE585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B4C7F3E-8ABD-42E3-B618-463C535EE585}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {510B5493-7E12-4492-80DD-C896B7169A12}
+	EndGlobalSection
+EndGlobal
